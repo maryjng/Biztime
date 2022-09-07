@@ -7,7 +7,7 @@ A backend application with REST API routes for handling company invoice data.
 
 
 # Routes
-  invoices - GET (all) \n
+  invoices - GET (all) 
   invoices - GET/<:id>
   invoices - POST
     Takes {comp_code, amt}
