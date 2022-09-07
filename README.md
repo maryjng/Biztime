@@ -23,7 +23,7 @@ A backend application with REST API routes for handling company invoice data.
  	- Takes {code, name, description}
     	- Returns {company: {code, name, description}}
 - companies - PUT/<:code>
-    	- Takes {name, description}
-    	- Returns {company: {code, name, description}}
+	- Takes {name, description}
+	- Returns {company: {code, name, description}}
 - companies - DELETE/<:code>
 ###
